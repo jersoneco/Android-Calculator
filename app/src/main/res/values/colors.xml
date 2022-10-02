@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <!-- Light Theme colors-->
+    <color name="colorBtnOperatorsTextLightTheme">#4CAF50</color>
+    <color name="colorBtnNumbersTextLightTheme">#000000</color>
+
+    <color name="colorBtnBackgroundLightTheme">#FFFFFF</color>
+    <color name="colorOutputLightTheme">#272727</color>
+    <color name="colorInputLightTheme">#000000</color>
+
+    <color name="colorAppBackgroundLightTheme">#EAEAEA</color>
+
+    <color name="colorBtnClicked">#D3D3D3</color>
+
+    <!-- Dark Theme colors-->
+    <color name="colorBtnOperatorsTextDarkTheme">#FF9800</color>
+    <color name="colorBtnNumbersTextDarkTheme">#FFFFFF</color>
+
+    <color name="colorBtnBackgroundDarkTheme">#191919</color>
+    <color name="colorOutputDarkTheme">#ACACAC</color>
+    <color name="colorInputDarkTheme">#FFFFFF</color>
+
+    <color name="colorAppBackgroundDarkTheme">#000000</color>
+
+    <color name ="colorBtnClickedDark">#989898</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+</resources>
